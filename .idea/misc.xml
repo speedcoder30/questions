@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/corpus/artificial_intelligence.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/artificial_intelligence.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/machine_learning.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/machine_learning.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/natural_language_processing.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/natural_language_processing.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/neural_network.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/neural_network.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/probability.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/probability.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/python.txt" />
+    <file url="file://$PROJECT_DIR$/corpus/python.txt" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (questions)" project-jdk-type="Python SDK" />
+</project>
